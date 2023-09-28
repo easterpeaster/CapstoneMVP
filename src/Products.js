@@ -1,0 +1,152 @@
+export const PRODUCTS = [
+    {
+        id: 1,
+        productName: "iPad",
+        price: 999.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 2,
+        productName: "iPhone",
+        price: 799.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 3,
+        productName: "MacBook",
+        price: 1099.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 4,
+        productName: "iPod Touch",
+        price: 199.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+        
+        id: 5,
+        productName: "Airpod",
+        price: 149.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 6,
+        productName: "iMac",
+        price: 1599.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg"
+
+
+        id: 7,
+        productName: "Dress",
+        price: 69.99,
+        category: "Women",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 8,
+        productName: "Blouse",
+        price: 999.99,
+        category: "Women",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 9,
+        productName: "Dress pants",
+        price: 79.99,
+        category: "Women",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 10,
+        productName: "Sneaker",
+        price: 129.99,
+        category: "Women",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 11,
+        productName: "Heels",
+        price: 99.99,
+        category: "Women",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 12,
+        productName: "Shirt",
+        price: 99.99,
+        category: "Men",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 13,
+        productName: "Pants",
+        price: 119.99,
+        category: "Mens",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 14,
+        productName: "Shorts",
+        price: 89.99,
+        category: "Men",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 15,
+        productName: "T-shirt",
+        price: 29.99,
+        category: "Men",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg"
+
+        id: 16,
+        productName: "Sneakers",
+        price: 140.99,
+        category: "Men",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 17,
+        productName: "Water Bottle",
+        price: 30.00,
+        category: "Accessories",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 18,
+        productName: "Sunglasses",
+        price: 160.00,
+        category: "Accessories",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 1,
+        productName: "iPad",
+        price: 999.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 1,
+        productName: "iPad",
+        price: 999.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg",
+
+        id: 1,
+        productName: "iPad",
+        price: 999.99,
+        category: "Electronics",
+        description: "10.9 inch touchscreen tablet PC made by Apple.",
+        productImage: "/Users/estherjeanmarie/Documents/2302-ACC-Capstone MVP/Capstone/src/photos/product1.jpg"
+
+    }
+]
